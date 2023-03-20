@@ -120,7 +120,7 @@ const jokes = [
         {      
         joke: 'What did the buffalo say when his kid left for college?',
         answer: 'Bison.'
-    }
+    }        
 ]
     const jokesBtn = document.querySelector('#jokesBtn');
     const jokeAnswer = document.querySelector('#Answer');
